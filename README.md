@@ -37,3 +37,6 @@ Google BigQuery: ペタバイト規模のデータを瞬時に集計。
 GoogleSQL: 複雑な条件分岐を含む集計クエリの設計。
 
 <img width="918" height="440" alt="dma_name 別の avg_gain_76ers, avg_gain_celtics" src="https://github.com/user-attachments/assets/bed92151-06e0-457d-aaae-3949e0c252e6" />
+
+「なぜこのデータを選んだか」の補足:
+「Google Trends のパブリックデータは、鮮度が極めて高く、消費者のリアルタイムな興味関心を反映しているため、スポーツイベントのような動的な事象の分析に最適であると判断しました」
